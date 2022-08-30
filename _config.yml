@@ -1,6 +1,7 @@
 title: C{x}DE
 description:
 remote_theme: pages-themes/modernist@v0.2.0
+layout: post
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 lsi: false
