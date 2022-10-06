@@ -1,8 +1,8 @@
-<div align="center"># *i C{X}DE iT*</div>
-<div align="center">## *i C{X}DE iT*</div>
-<div align="center">### *i C{X}DE iT*</div>
-<div align="center">#### *i C{X}DE iT*</div>
-<div align="center">##### *i C{X}DE iT*</div>
+# *i C{X}DE iT*
+## *i C{X}DE iT*
+### *i C{X}DE iT*
+#### *i C{X}DE iT*
+##### *i C{X}DE iT*
 
 ```
 #include <iostream>
