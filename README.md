@@ -6,11 +6,11 @@
 ##### *i C{X}DE iT*
 </div>
 
-'''
+```
 #include <iostream>
 
 int main() {
     std::cout << "Hello World!";
     return 0;
 }
-'''
+```
